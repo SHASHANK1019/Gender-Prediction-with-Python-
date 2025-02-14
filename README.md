@@ -65,9 +65,9 @@ A special thanks to **@Dataplay** for inspiring my journey in **Data Science & A
 ## 📬 Connect with Me
 Let's discuss **Machine Learning, NLP, and Data Science**! Feel free to reach out. 🚀
 
-📌 **GitHub**: [Your GitHub Link]  
-📌 **LinkedIn**: [Your LinkedIn Profile]  
+📌 **GitHub**: [https://github.com/ShashankKanaujia]  
+📌 **LinkedIn**: [https://www.linkedin.com/in/shashank-kanaujia-460580245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]  
 
 ---
-_If you find this project useful, give it a ⭐ on GitHub!_
+
 
